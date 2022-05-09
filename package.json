@@ -1,0 +1,26 @@
+{
+  "name": "projeto-encurtador-url-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto Encurtador de Urls em Node.ja, Typescript \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~s\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[js, Typescript e Mongo Db\u001b[D\u001b[\u001b[C\u001b[CDb.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "Katarine Albuquerque",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^5.13.14",
+    "shortid": "^2.2.16",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@typegoose/typegoose": "^9.8.1",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/mongoose": "^5.11.97",
+    "@types/shortid": "^0.0.29"
+  }
+}

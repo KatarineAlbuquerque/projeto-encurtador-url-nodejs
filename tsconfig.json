@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./scr",
+        "moduleResolution":"node",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "rootDir":"./src",
+        "experimentalDecorators": true
+    },
+    "lib": [
+        "es6"
+    ]
+}
